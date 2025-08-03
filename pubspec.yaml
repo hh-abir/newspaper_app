@@ -1,0 +1,55 @@
+name: newspaper_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+
+  
+  flutter:
+    sdk: flutter
+
+  # State Management
+  flutter_riverpod: ^2.6.1
+
+  # Networking
+  dio: ^5.8.0+1
+  retrofit: ^4.7.0
+  json_annotation: ^4.9.0
+  
+  # Routing
+  go_router: ^16.0.0
+
+  # Local Storage
+  shared_preferences: ^2.5.3
+
+  # Logging
+  logger: ^2.6.1
+
+  # UI
+  flutter_staggered_grid_view: ^0.7.0
+  cached_network_image: ^3.4.1
+  shimmer: ^3.0.0
+
+  # Utility
+  intl: ^0.20.2
+  equatable: ^2.0.7
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+  # Code Generation
+  build_runner: ^2.6.0
+  json_serializable: ^6.10.0
+  retrofit_generator: ^10.0.1
+
+flutter:
+  uses-material-design: true
