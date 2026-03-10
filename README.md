@@ -7,7 +7,7 @@ A modern, high-performance News Reader application built with **Flutter**. This 
 ## 📸 Screenshots
 
 | Home Page | Detail Page | Saved Page |
-| :---: | :---: |
+| :---: | :---: | :---: |
 | ![Home](docs/Capture1.PNG) | ![Details](docs/Capture2.PNG) |  ![Saved](docs/Capture3.PNG) |
 
 ---
